@@ -151,4 +151,4 @@ WHERE item_rank <= 3;
 
 ## 📬 Contact
 
-If you have questions about the analysis or want to discuss the approach, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sunny-chaudhary-61811b306/) or [email](sunnychaudhary1029@gmail.com).
+If you have questions about the analysis or want to discuss the approach, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sunny-chaudhary-61811b306/) or email:"sunnychaudhary1029@gmail.com".
