@@ -149,4 +149,4 @@ An interactive dashboard (`customer_behavior_dashboard.pbix`) visualizes the SQL
 
 ## 📬 Contact
 
-If you have questions about the analysis or want to discuss the approach, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sunny-chaudhary-61811b306/) or [email](sunnychaudhary1029@gmail.com).
+If you have questions about the analysis or want to discuss the approach, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sunny-chaudhary-61811b306/) or [email:sunnychaudhary1029@gmail.com](sunnychaudhary1029@gmail.com).
