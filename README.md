@@ -90,7 +90,7 @@ WHERE item_rank <= 3;
 
 An interactive dashboard (`customer_behavior_dashboard.pbix`) visualizes the SQL findings — revenue by segment, discount impact, category performance, and subscription behavior — so stakeholders can explore the results without touching code.
 
-> 📷 *Add a screenshot or GIF of the dashboard here — this is the single highest-impact addition you can make to this README. Export a PNG from Power BI (File → Export → Image) and embed it with `![Dashboard](assets/dashboard.png)`.*
+> 📷 *Add a screenshot or GIF of the dashboard here — this is the single highest-impact addition you can make to this README. Export a PNG from Power BI (File → Export → Image) and embed it with `![Dashboard](dashboard.png)`.*
 
 ---
 
