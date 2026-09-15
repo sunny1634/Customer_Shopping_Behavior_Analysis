@@ -133,7 +133,7 @@ WHERE item_rank <= 3;
 1. **Clone the repo**
    ```bash
    git clone "https://github.com/sunny1634/Customer_Shopping_Behavior_Analysis.git"
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
+   cd Customer_Shopping_Behavior_Analysis
    ```
 2. **Install dependencies**
    ```bash
